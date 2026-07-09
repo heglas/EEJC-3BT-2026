@@ -1,6 +1,6 @@
 # EEJC-3BT-2026
 
-> Repositorio da turma **3BT** da Escola Estadual Joao Camargo (EEJC) — ano letivo 2026.
+> Repositorio da turma **3BT** da Escola Estadual Professor Joao Cruz (EEJC) — ano letivo 2026.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
