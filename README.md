@@ -1,60 +1,57 @@
-# EEJC-3BT-2026
+# EEJC-3BT — 2026
 
-> Repositorio da turma **3BT** da Escola Estadual Professor Joao Cruz (EEJC) — ano letivo 2026.
+> Escola Estadual Professor Joao Cruz · 3a serie · ano letivo 2026
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Em%20andamento-green)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Status](https://img.shields.io/badge/Status-Em%20andamento-green)
 
 ---
 
-## Sobre
+## Primeira vez aqui?
 
-Este repositorio contem todo o material didatico, exercicios e projetos desenvolvidos com a turma **EEJC-3BT** ao longo do ano letivo de 2026, nas disciplinas:
+Leia o **[COMECE-AQUI](COMECE-AQUI.md)**. Ele explica em 2 minutos como abrir os materiais no celular ou no computador, sem instalar nada.
 
-| Disciplina | Sigla | Conteudo Principal |
+---
+
+## Escolha sua materia
+
+| Materia | Nome completo | Material |
 |---|---|---|
-| Programacao Aplicada a Ciencia de Dados | PACD | Python, logica, estruturas de dados |
-| Banco de Dados e Computacao em Nuvem | BDCN | SQL, modelagem, cloud |
-| Aprendizado de Maquina | AM | Scikit-learn, modelos preditivos |
-| Matematica e Estatistica para Ciencia de Dados | MECD | Estatistica, probabilidade |
+| PACD | Programacao Aplicada a Ciencia de Dados | Em breve |
+| **BDCN** | Banco de Dados e Computacao em Nuvem | [Ver 5 materiais](02-BDCN/README.md) |
+| **AM** | Aprendizado de Maquina | [Ver 9 materiais](03-AM/README.md) |
+| MECD | Matematica e Estatistica para Ciencia de Dados | Em breve |
 
 ---
 
-## Estrutura
+## Como o material esta organizado
 
 ```
 EEJC-3BT-2026/
-|-- exercicios/    # Listas e atividades avaliativas
-|-- material/      # Slides, apostilas e notebooks de aula
-|-- projetos/      # Projetos finais e trabalhos em grupo
-|-- README.md
+|-- COMECE-AQUI.md  <- leia primeiro
+|-- 02-BDCN/        <- material separado por bimestre
+|-- 03-AM/          <- material separado por bimestre
+|-- projetos/       <- trabalhos e projetos finais
 ```
+
+Dentro de cada materia, o material esta separado por **bimestre**, e cada aula comeca com o numero da semana (S03, S04, S09...).
 
 ---
 
-## Atividades disponiveis
+## Legenda dos tipos de material
 
-| Atividade | Disciplina | Arquivo |
-|---|---|---|
-| Modelagem ER + Quiz de SQL | BDCN | [exercicios/BDCN_Exercicios_ER_e_Quiz_SQL.md](exercicios/BDCN_Exercicios_ER_e_Quiz_SQL.md) |
-| Pratica com Supabase | BDCN | [exercicios/BDCN_3BT_Supabase.ipynb](exercicios/BDCN_3BT_Supabase.ipynb) |
+| Tipo | O que e |
+|---|---|
+| Slides | Apresentacao usada na aula |
+| Atividade | Exercicio para voce fazer e entregar |
+| Notebook | Arquivo de codigo que roda no navegador (Colab) |
+| Base de dados | Planilha ou CSV usado nas atividades |
+| Revisao | Material para estudar antes da prova |
+| Avaliacao | Provas e questoes comentadas |
+| Tutorial / Roteiro | Passo a passo para acompanhar |
 
 ---
 
-## Como usar
-
-```bash
-# Clone o repositorio
-git clone https://github.com/heglas/EEJC-3BT-2026.git
-
-# Instale as dependencias
-pip install -r requirements.txt
-
-# Abra os notebooks
-jupyter notebook
-```
+> **Mudou de lugar?** Em 07/08/2026 o material foi reorganizado. Se voce tinha um link antigo salvo e ele deu erro, veja o [mapa de mudancas](_arquivo/MAPA-DE-MUDANCAS.md).
 
 ---
 
