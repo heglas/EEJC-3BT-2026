@@ -8,7 +8,7 @@
 
 ## Primeira vez aqui?
 
-Leia o **[COMECE-AQUI](COMECE-AQUI.md)**. Ele explica em 2 minutos como abrir os materiais no celular ou no computador, sem instalar nada.
+Leia o **[COMECE-AQUI](COMECE-AQUI.md)**. Ele explica em 2 minutos como abrir os materiais no computador da escola ou no de casa, sem instalar nada.
 
 ---
 
