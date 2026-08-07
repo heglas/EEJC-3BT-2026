@@ -34,6 +34,15 @@ EEJC-3BT-2026/
 
 ---
 
+## Atividades disponiveis
+
+| Atividade | Disciplina | Arquivo |
+|---|---|---|
+| Modelagem ER + Quiz de SQL | BDCN | [exercicios/BDCN_Exercicios_ER_e_Quiz_SQL.md](exercicios/BDCN_Exercicios_ER_e_Quiz_SQL.md) |
+| Pratica com Supabase | BDCN | [exercicios/BDCN_3BT_Supabase.ipynb](exercicios/BDCN_3BT_Supabase.ipynb) |
+
+---
+
 ## Como usar
 
 ```bash
