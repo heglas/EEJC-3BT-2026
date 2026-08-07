@@ -35,13 +35,21 @@ Quando aparecer o botao azul **Abrir no Colab**, basta clicar. O arquivo abre no
 
 ---
 
-## 4. Se estiver no celular
+## 4. Em que aparelho fazer
 
-Funciona, mas a leitura de codigo fica apertada. Dicas:
+Tudo roda pelo navegador, com a sua conta Google da escola. Nao precisa instalar nada.
 
-- Instale o app **Google Drive** e o **Colab** abre por ele
-- Para PDFs e slides, o celular resolve bem
-- Para escrever codigo, prefira o computador da sala de informatica
+| Aparelho | Serve para |
+|---|---|
+| **Computador da sala de informatica** | Tudo. E o aparelho das atividades |
+| **Seu computador de casa** | Tudo, do mesmo jeito. Basta entrar na sua conta Google |
+| **Celular** | Ler PDF, slides e roteiro. Para escrever codigo, fica apertado |
+
+No celular, instale o app **Google Drive** e o Colab abre por ele.
+
+Como o trabalho fica salvo no **seu Drive**, e nao no computador, voce continua de casa exatamente de onde parou.
+
+> Ao terminar a aula, **saia da sua conta Google** antes de sair da sala. O computador e compartilhado.
 
 ---
 
